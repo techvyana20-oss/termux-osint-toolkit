@@ -90,6 +90,16 @@ nmap -Pn example.com
 ```
 
 ---
+### 5. Download The osint-toolkit.sh
+
+```bash
+git clone https://github.com/techvyana20-oss/termux-osint-toolkit.git
+chmod +x osint-toolkit.sh
+mv osint-toolkit.sh $PREFIX/bin/osint
+osint
+```
+
+---
 
 ### ✅ All Set!
 You’ve now installed powerful OSINT tools in Termux.  
