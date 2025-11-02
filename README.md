@@ -95,4 +95,4 @@ nmap -Pn example.com
 You’ve now installed powerful OSINT tools in Termux.  
 Enjoy exploring the open-source intelligence world!
 
-**Created by:** Tech Vyana
+**Created by:** Tech Vyana 2.0
